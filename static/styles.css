@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+}
+
+.suites-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.card {
+    margin: 1rem;
+}
